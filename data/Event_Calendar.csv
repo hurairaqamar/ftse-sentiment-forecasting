@@ -1,0 +1,41 @@
+date,event_type,description,report_published
+08/02/2018,Bank of England,MPC Announcement & Inflation Report,TRUE
+22/03/2018,Bank of England,MPC Announcement,FALSE
+10/05/2018,Bank of England,MPC Announcement & Inflation Report,TRUE
+21/06/2018,Bank of England,MPC Announcement,FALSE
+02/08/2018,Bank of England,MPC Announcement & Inflation Report,TRUE
+13/09/2018,Bank of England,MPC Announcement,FALSE
+01/11/2018,Bank of England,MPC Announcement & Inflation Report,TRUE
+20/12/2018,Bank of England,MPC Announcement,FALSE
+07/02/2019,Bank of England,MPC Announcement & Inflation Report,TRUE
+21/03/2019,Bank of England,MPC Announcement,FALSE
+02/05/2019,Bank of England,MPC Announcement & Inflation Report,TRUE
+20/06/2019,Bank of England,MPC Announcement,FALSE
+01/08/2019,Bank of England,MPC Announcement & Inflation Report,TRUE
+19/09/2019,Bank of England,MPC Announcement,FALSE
+07/11/2019,Bank of England,MPC Announcement & Inflation Report,TRUE
+19/12/2019,Bank of England,MPC Announcement,FALSE
+30/01/2020,Bank of England,MPC Announcement & Monetary Policy Report,TRUE
+26/03/2020,Bank of England,MPC Announcement,FALSE
+07/05/2020,Bank of England,MPC Announcement & Monetary Policy Report,TRUE
+18/06/2020,Bank of England,MPC Announcement,FALSE
+06/08/2020,Bank of England,MPC Announcement & Monetary Policy Report,TRUE
+17/09/2020,Bank of England,MPC Announcement,FALSE
+05/11/2020,Bank of England,MPC Announcement & Monetary Policy Report,TRUE
+17/12/2020,Bank of England,MPC Announcement,FALSE
+04/02/2021,Bank of England,MPC Announcement & Monetary Policy Report,TRUE
+18/03/2021,Bank of England,MPC Announcement,FALSE
+06/05/2021,Bank of England,MPC Announcement & Monetary Policy Report,TRUE
+24/06/2021,Bank of England,MPC Announcement,FALSE
+05/08/2021,Bank of England,MPC Announcement & Monetary Policy Report,TRUE
+23/09/2021,Bank of England,MPC Announcement,FALSE
+04/11/2021,Bank of England,MPC Announcement & Monetary Policy Report,TRUE
+16/12/2021,Bank of England,MPC Announcement,FALSE
+03/02/2022,Bank of England,MPC Announcement & Monetary Policy Report,TRUE
+17/03/2022,Bank of England,MPC Announcement,FALSE
+05/05/2022,Bank of England,MPC Announcement & Monetary Policy Report,TRUE
+16/06/2022,Bank of England,MPC Announcement,FALSE
+04/08/2022,Bank of England,MPC Announcement & Monetary Policy Report,TRUE
+15/09/2022,Bank of England,MPC Announcement,FALSE
+03/11/2022,Bank of England,MPC Announcement & Monetary Policy Report,TRUE
+15/12/2022,Bank of England,MPC Announcement,FALSE
